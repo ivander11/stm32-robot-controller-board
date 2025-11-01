@@ -2,6 +2,32 @@
 
 Custom STM32F407-based PCB motor controller board designed for robotics applications, specifically optimized for waste sorting robots with multiple motor control requirements.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Hardware](https://img.shields.io/badge/Hardware-Rev%20A-blue)]()
+[![Documentation](https://img.shields.io/badge/Docs-Complete-green)](docs/)
+
+## 📚 Documentation
+
+- **[Quick Start Guide](docs/QUICKSTART.md)** - Get started in 15 minutes
+- **[Hardware Specifications](docs/HARDWARE_SPECS.md)** - Detailed hardware design and components
+- **[Software Setup Guide](docs/SOFTWARE_SETUP.md)** - Firmware development and programming
+- **[API Reference](docs/API_REFERENCE.md)** - Communication protocols and interfaces
+- **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute to this project
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Hardware Specifications](#hardware-specifications)
+- [Pin Assignments](#pin-assignments)
+- [Getting Started](#getting-started)
+- [Software Architecture](#software-architecture)
+- [Application: Waste Sorting Robot](#application-waste-sorting-robot)
+- [Troubleshooting](#troubleshooting)
+- [Safety Considerations](#safety-considerations)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Overview
 
 This board provides a comprehensive motor control solution featuring:
@@ -298,9 +324,37 @@ ERROR_LOG\n     # Recent error events
 ## Technical Support
 
 For technical questions, firmware updates, or hardware modifications:
-- **GitHub Issues**: [Repository Issues Page]
-- **Email**: support@example.com
-- **Documentation**: See `/docs` folder for additional guides
+- **GitHub Issues**: [Open an issue](https://github.com/ivander11/stm32-robot-controller-board/issues)
+- **Documentation**: Comprehensive guides in [`/docs`](docs/) folder
+- **Discussions**: [GitHub Discussions](https://github.com/ivander11/stm32-robot-controller-board/discussions)
+
+## Contributing
+
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- How to report bugs
+- How to suggest features
+- Development guidelines
+- Code style and standards
+- Pull request process
+
+## Project Status
+
+- **Hardware**: Revision A - Production ready
+- **Firmware**: Version 1.0 - In development
+- **Documentation**: Complete
+
+## Roadmap
+
+- [ ] Release firmware v1.0
+- [ ] Add example applications
+- [ ] ROS2 integration package
+- [ ] Web-based configuration interface
+- [ ] Hardware revision B with additional features
+
+## Related Projects
+
+- [Firmware Repository](https://github.com/ivander11/stm32-robot-controller-firmware) - STM32F407 firmware
+- [ROS Package](https://github.com/ivander11/stm32-robot-controller-ros) - ROS driver (planned)
 
 ## License
 
