@@ -34,6 +34,16 @@ The original hardware source files are in the `/hardware/source/` folder.
 
 ---
 
+## 🎓 Learning Outcomes
+
+This project provided hands-on experience in:
+* **Hardware Design:** Full PCB lifecycle from schematic capture to layout in Fusion 360.
+* **Power Electronics:** Integrating high-current BTS7960 motor drivers and designing a stable power distribution network.
+* **Mixed-Signal Layout:** Managing a layout with noisy high-current traces (motors) and sensitive high-speed lines (Ethernet, CAN).
+* **Design for Manufacturing (DFM):** Creating a 2-layer board with clear silkscreen, component spacing, and routing for assembly.
+
+---
+
 ## 📸 Gallery
 
 #### PCB Layout
