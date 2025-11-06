@@ -13,7 +13,8 @@ This is a custom 2-layer PCB for robotics, built around the **STM32F407VGT6** mi
 
 ## 🔧 Key Features
 
-* **MCU:** STM32F407VGT6
+* **Design Type:** 2-Layer Modular Carrier Board
+* **Core Module:** Integrates a core STM32F407VGT6 compute module via pin headers.
 * **Motor Control:** 6x DC Motor (BTS7960) headers, 4x Encoders, 4x Servos
 * **Communication:** 6x UART, 2x I2C, 1x CAN Bus, 1x Ethernet
 * **I/O:** 5x Digital Inputs, 3x Digital Outputs, 2x LEDs
@@ -41,6 +42,7 @@ This project provided hands-on experience in:
 * **Power Electronics:** Integrating high-current BTS7960 motor drivers and designing a stable power distribution network.
 * **Mixed-Signal Layout:** Managing a layout with noisy high-current traces (motors) and sensitive high-speed lines (Ethernet, CAN).
 * **Design for Manufacturing (DFM):** Creating a 2-layer board with clear silkscreen, component spacing, and routing for assembly.
+* **Hardware Validation:** Assembling, testing, and debugging the physical board.
 
 ---
 
@@ -53,7 +55,7 @@ This project provided hands-on experience in:
 ![Schematic](docs/images/schematic.png)
 
 #### Assembled Board
-![Assembled Board](docs/image/assembled-pcb1.png)
+![Assembled Board](docs/image/assembled-pcb1.jpeg)
 
 ---
 
