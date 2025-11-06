@@ -52,6 +52,9 @@ This project provided hands-on experience in:
 #### Schematic
 ![Schematic](docs/images/schematic.png)
 
+#### Assembled Board
+![Assembled Board](docs/image/assembled-pcb1.png)
+
 ---
 
 ## 📞 Contact & Credits
