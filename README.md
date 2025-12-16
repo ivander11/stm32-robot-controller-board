@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This is a custom 2-layer PCB for robotics, built around the **STM32F407VGT6** microcontroller. It integrates high-current motor control, sensor inputs, and multiple communication interfaces onto a single board.
 
 ---
 
-## 🔧 Key Features
+## Key Features
 
 * **Design Type:** 2-Layer Modular Carrier Board
 * **Core Module:** Integrates a core STM32F407VGT6 compute module via pin headers.
@@ -22,7 +22,7 @@ This is a custom 2-layer PCB for robotics, built around the **STM32F407VGT6** mi
 
 ---
 
-## 📁 Design Files
+## Design Files
 
 The original hardware source files are in the `/hardware/source/` folder.
 
@@ -35,7 +35,7 @@ The original hardware source files are in the `/hardware/source/` folder.
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project provided hands-on experience in:
 * **Hardware Design:** Full PCB lifecycle from schematic capture to layout in Fusion 360.
@@ -46,7 +46,7 @@ This project provided hands-on experience in:
 
 ---
 
-## 📸 Gallery
+## Gallery
 
 #### PCB Layout
 ![PCB Layout](docs/images/pcb-layout.png)
@@ -61,7 +61,7 @@ This project provided hands-on experience in:
 
 ---
 
-## 📞 Contact & Credits
+## Contact & Credits
 
 * **Hardware Design:** Ivander Sugiarta Halim
 * **GitHub:** [github.com/ivander11](https://github.com/ivander11)
