@@ -3,7 +3,6 @@
 
 `stm32` `pcb-design` `robotics` `motor-control` `embedded-systems` `hardware-design` `fusion360` `bts7960` `can-bus` `ethernet`
 
----
 
 ## Overview
 
