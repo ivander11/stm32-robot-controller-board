@@ -1,6 +1,6 @@
 # STM32 Robot Controller Board
 
-![PCB Layout](docs/images/pcb-layout.png)
+
 `stm32` `pcb-design` `robotics` `motor-control` `embedded-systems` `hardware-design` `fusion360` `bts7960` `can-bus` `ethernet`
 
 ---
